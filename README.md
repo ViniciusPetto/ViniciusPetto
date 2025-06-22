@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7399CF&height=80&section=header"/>
 
 <!-- Mensagem escrita abaixo do cabeçalho -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=86B1F0&size=24&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Vinícius!+👋;Atualmente+curso+Análise+e+Desenvolvimento+de+Sistemas+na+Unicamp!+📝;Sejam+bem-vindos+ao+meu+perfil!+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=86B1F0&size=24&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Vinícius!👋;Atualmente+curso+Análise+e+Desenvolvimento+de+Sistemas+na+Unicamp!📝;Sejam+bem-vindos+ao+meu+perfil!😊)](https://git.io/typing-svg)
 
 <!--Most used languages-->
 <a href="https://github.com/ViniciusPetto/convoychat">
