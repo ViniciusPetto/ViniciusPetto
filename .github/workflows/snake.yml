@@ -1,44 +1,23 @@
-name: Generate Snake Animation
+name: Generate Datas
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          node-version: '20'
+          github_user_name: rafaballerini
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Clone Platane/snk
-        run: git clone https://github.com/Platane/snk.git
-
-      - name: Install dependencies
-        run: |
-          cd snk
-          npm install
-
-      - name: Generate SVG with custom colors
-        run: |
-          cd snk
-          npm run build
-          node ./dist/index.js \
-            --github_user_name=${{ github.repository_owner }} \
-            --output=../dist/github-contribution-grid-snake.svg \
-            --color_snake="#00ff7f" \
-            --color_dots="#161b22,#0e4429,#006d32,#26a641,#39d353" \
-            --show_progress_bar=false
-
-      - name: Upload to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
