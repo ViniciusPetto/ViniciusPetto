@@ -29,3 +29,5 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> <!-- SQLServer-->
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"> <!-- MariaDB -->
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
