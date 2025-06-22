@@ -36,4 +36,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7399CF&height=80&section=footer"/>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ViniciusPetto/ViniciusPetto/blob/output/github-contribution-grid-snake.svg)
