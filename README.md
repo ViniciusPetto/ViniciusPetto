@@ -40,6 +40,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<!--![snake gif](https://github.com/ViniciusPetto/ViniciusPetto/blob/output/github-contribution-grid-snake.svg)-->
+![snake gif](https://github.com/ViniciusPetto/ViniciusPetto/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7399CF&height=80&section=footer"/>
