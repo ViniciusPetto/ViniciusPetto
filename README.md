@@ -34,6 +34,12 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"> <!-- MariaDB -->
 </div>
 
-<!--![snake gif](https://github.com/ViniciusPetto/ViniciusPetto/blob/output/github-contribution-grid-snake.svg)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7399CF&height=80&section=footer"/>
