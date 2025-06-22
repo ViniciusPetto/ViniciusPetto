@@ -21,7 +21,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            snake_color: '#8e44ad'
+            snake_color: '#000000'
 
       - name: List contents of dist directory
         run: ls -R dist
