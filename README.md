@@ -31,7 +31,7 @@
 </div>
 
 <!-- Bancos de dados utilizados -->
-<div><br>
+<div>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> <!-- MySQL -->
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> <!-- SQLServer-->
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"> <!-- MariaDB -->
