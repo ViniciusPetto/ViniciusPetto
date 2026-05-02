@@ -4,14 +4,13 @@
 <!-- Mensagem escrita abaixo do cabeçalho -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=86B1F0&size=24&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Vinícius!👋;Atualmente+curso+Análise+e+Desenvolvimento+de+Sistemas+na+Unicamp!📝;Sejam+bem-vindos+ao+meu+perfil!😊)](https://git.io/typing-svg)
 
-<!--Most used languages - This Deployment is paused by the owner
 <a href="https://github.com/ViniciusPetto/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusPetto&layout=donut&langs_count=8&hide=hack,less&card_width=300&title_color=fff&text_color=B3B3B3&bg_color=0D1117&border_color=58759E"/>
-</a> -->
-<!--GitHub stats - This Deployment is paused by the owner
+  <img height=300 align="center" src="https://github-readme-stats-oebenhoaz-viniciuspettos-projects.vercel.app/api/top-langs?username=ViniciusPetto&layout=donut&langs_count=8&hide=hack,less&card_width=300&title_color=fff&text_color=B3B3B3&bg_color=0D1117&border_color=58759E"/>
+</a>
+
 <a href="https://github.com/ViniciusPetto/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusPetto&rank_icon=github&title_color=fff&text_color=B3B3B3&bg_color=0D1117&border_color=58759E&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged"/>
-</a> -->
+  <img height=300 align="center" src="https://github-readme-stats-oebenhoaz-viniciuspettos-projects.vercel.app/api?username=ViniciusPetto&rank_icon=github&title_color=fff&text_color=B3B3B3&bg_color=0D1117&border_color=58759E&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged"/>
+</a>
 
 <!-- Linguagens utilizadas -->
 <div>
