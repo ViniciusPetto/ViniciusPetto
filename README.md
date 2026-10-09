@@ -4,14 +4,13 @@
 <!-- Mensagem escrita abaixo do cabeçalho> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=86B1F0&size=24&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name's+Vinícius!👋;I'm+currently+studying+System+Analysys+and+Development+at+Unicamp!📝;Welcome+to+my+profile!😊)](https://git.io/typing-svg)
 
-<!-- Não está funcionando os cards de most used languages e stats
-<a href="https://github.com/ViniciusPetto/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats-oebenhoaz-viniciuspettos-projects.vercel.app/api/top-langs?username=ViniciusPetto&layout=donut&langs_count=8&hide=hack,less&card_width=300&title_color=fff&text_color=B3B3B3&bg_color=0D1117&border_color=58759E"/>
-</a>
+<!-- Stats -->
+<div align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViniciusPetto&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPetto&layout=compact&theme=github_dark"/>
+</div>
 
-<a href="https://github.com/ViniciusPetto/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats-oebenhoaz-viniciuspettos-projects.vercel.app/api?username=ViniciusPetto&rank_icon=github&title_color=fff&text_color=B3B3B3&bg_color=0D1117&border_color=58759E&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged"/>
-</a> -->
+<br>
 
 <!-- Linguagens utilizadas -->
 <div>
