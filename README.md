@@ -4,13 +4,13 @@
 <!-- Mensagem escrita abaixo do cabeçalho> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=86B1F0&size=24&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name's+Vinícius!👋;I'm+currently+studying+System+Analysys+and+Development+at+Unicamp!📝;Welcome+to+my+profile!😊)](https://git.io/typing-svg)
 
-<!-- Stats -->
+<!-- Stats 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViniciusPetto&show_icons=true&theme=github_dark&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPetto&layout=compact&theme=github_dark"/>
 </div>
 
-<br>
+<br> -->
 
 <!-- Linguagens utilizadas -->
 <div>
